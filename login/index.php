@@ -24,7 +24,7 @@
                 <div class="col-md-6 col-md-push-3">
                 <div class="contact-form contact-form1 contact-form2 ">
                             <h4>Login</h4>
-                            <form action="#">
+                            <form action="../includes/login_process.php" method="POST">
                               <div class="row">
                                   <div class="col-md-12">
                                     <div class="form-group">
