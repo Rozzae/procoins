@@ -230,7 +230,7 @@
                                 <h4>Recieve Pay</h4>
                                 <ul>
                                     <li>Once your payment is</li>
-                                    <li>confirmed you are can now</li>
+                                    <li>confirmed you are can</li>
                                     <li>receive with 100% interest.</li>
                                 </ul>
                             </div>
